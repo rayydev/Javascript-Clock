@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body {
+    background-color: #1c1c1c;
+    color: #FFFFFF;
+    font-family: 'Lato', sans-serif;
+    
+}
+
+.clock {
+    text-align: center;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    right: 40%;
+    transform: translate(0, -50%);
+    font-size: 600%;
+    padding-bottom: 40px;
+}
+
