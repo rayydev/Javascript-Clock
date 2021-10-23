@@ -1,2 +1,5 @@
 # Javascript Clock
- simple clock in javascript
+
+cool clock in js and open source pogr?
+
+# by me
